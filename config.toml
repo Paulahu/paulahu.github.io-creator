@@ -42,7 +42,7 @@ preserveTaxonomyNames = true
 [params]
     since = 2020
     author = "Paula.Hu"                           
-    avatar = "/resources/gen/images/student.png"
+    avatar = "/images/student.png"
     subtitle = "我会更好，因为我没有停止"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
